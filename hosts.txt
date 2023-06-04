@@ -53,6 +53,7 @@
 127.0.0.49    www.vertix.io
 127.0.0.50    www.miniroyale2.io
 127.0.0.51    www.projectgungame.com
+127.0.0.76    www.roblox.com
 
 #Here we have porn websites
 
@@ -82,3 +83,7 @@
 127.0.0.71    www.quora.com
 127.0.0.72    www.weibo.com
 127.0.0.73    www.vk.com
+
+#Here we have pirate websites
+127.0.0.74    www.utorrent.com
+127.0.0.75    www.mediafire.com
