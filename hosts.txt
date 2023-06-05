@@ -55,7 +55,8 @@
 127.0.0.51    www.projectgungame.com
 127.0.0.76    www.roblox.com
 127.0.0.77    https://krunker.io/
-
+127.0.0.78    www.cdgameclub.com
+127.0.0.79    www.opera.com
 #Here we have porn websites
 
 127.0.0.52    www.xvideos.com
