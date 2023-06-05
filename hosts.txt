@@ -54,6 +54,7 @@
 127.0.0.50    www.miniroyale2.io
 127.0.0.51    www.projectgungame.com
 127.0.0.76    www.roblox.com
+127.0.0.77    https://krunker.io/
 
 #Here we have porn websites
 
