@@ -43,7 +43,6 @@
 127.0.0.39    www.shockwave.com
 127.0.0.40    www.iwin.com
 127.0.0.41    www.minijuegos.com
-127.0.0.42    www.krunker.io
 127.0.0.43    www.warmerise.com
 127.0.0.44    www.shellshock.io
 127.0.0.45    www.bulletforcegame.com
@@ -54,8 +53,8 @@
 127.0.0.50    www.miniroyale2.io
 127.0.0.51    www.projectgungame.com
 127.0.0.76    www.roblox.com
-127.0.0.77    https://krunker.io/
-127.0.0.78    cdgameclub.com
+0.0.0.0       krunker.io
+0.0.0.0       cdgameclub.com
 127.0.0.79    www.opera.com
 #Here we have porn websites
 
